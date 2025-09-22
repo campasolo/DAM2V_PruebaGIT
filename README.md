@@ -1,2 +1,2 @@
 # DAM2V_PruebaGIT
-Repositio de prueba para la asignatura IACN
+Repositorio de prueba para la asignatura IACN
